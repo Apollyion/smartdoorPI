@@ -1,12 +1,17 @@
 # Como usar:
 
 ## Conectar componentes no Raspberry Pi
-- Instalar o LCD: [link](https://www.youtube.com/watch?v=fR5XhHYzUK0&t=194s)
 
 - Instalar a Pi Cam: [link](https://www.dexterindustries.com/howto/installing-the-raspberry-pi-camera/)
 
-- - -
+<details>
+  <summary>Instalar o LCD:</summary>
 
+ ![ ](https://community.element14.com/resized-image/__size/615x900/__key/communityserver-wikis-components-files/00-00-00-01-69/8154.contentimage_5F00_151701.png)
+
+</details>
+
+- - -
 ## Instalar dependencias
 
 - Começar instalando as dependencias necessarias:
